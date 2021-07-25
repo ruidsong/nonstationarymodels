@@ -1,6 +1,6 @@
 # nonstationarymodels
-R code for elastic models and SVMA models
+Instruction and R code for elastic models and SVMA models
 
-Download the SSN object in R here:
+Download the Salt River SSN object in R here:
 https://www.fs.fed.us/rm/boise/AWAE/projects/SSN_STARS/downloads/SaltRiver_BlockKrige.zip
 
